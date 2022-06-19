@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MainEditText">
+        <attr name="size" format="enum" >
+            <enum name="SMALL" value="0"/>
+            <enum name="NORMAL" value="1"/>
+            <enum name="BIG" value="2"/>
+        </attr>
+        <attr name="style" format="enum">
+            <enum name="SIMPLE" value="0" />
+            <enum name="ICON" value="1" />
+            <enum name="PHONE" value="2" />
+            <enum name="PASS" value="3" />
+            <enum name="DISCOUNT" value="4" />
+        </attr>
+
+        <attr name="hint" format="string" />
+        <attr name="isMandatory" format="boolean" />
+        <attr name="rightIcon" format="reference" />
+    </declare-styleable>
+</resources>

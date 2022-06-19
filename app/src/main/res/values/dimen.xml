@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="small_input_height">40dp</dimen>
+    <dimen name="small_input_corner">6dp</dimen>
+    <dimen name="small_input_fringe_height">54dp</dimen>
+
+    <dimen name="normal_input_height">48dp</dimen>
+    <dimen name="normal_input_corner">8dp</dimen>
+    <dimen name="normal_input_fringe_height">62dp</dimen>
+
+    <dimen name="big_input_height">56dp</dimen>
+    <dimen name="big_input_corner">10dp</dimen>
+    <dimen name="big_input_fringe_height">70dp</dimen>
+
+    <dimen name="input_label_size">12sp</dimen>
+    <dimen name="input_text_size">14sp</dimen>
+
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="padding12">12dp</dimen>
+    <dimen name="padding6">6dp</dimen>
+    <dimen name="padding8">8dp</dimen>
+    <dimen name="padding4">4dp</dimen>
+    <dimen name="padding16">16dp</dimen>
+    <dimen name="padding30">30dp</dimen>
+    <dimen name="padding24">24dp</dimen>
+    <dimen name="padding36">36dp</dimen>
+
+</resources>
